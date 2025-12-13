@@ -11,7 +11,7 @@ This repository is organized to clearly separate **intermediate experiments** fr
   Scripts and artifacts related to dataset construction, filtering, and sampling.  
 
 - **02_preprocessing/**  
-  Exploratory notebooks and experiments on preprocessing strategies, including normalization, data augmentation, and domain gap analysis.
+  Exploratory notebooks and experiments on basic preprocessing strategies(stage1), and advanced preprocessing stategies after model selection including normalization, data augmentation, and domain gap analysis.
 
 - **03_model_experiments/**  
   Model comparison and ablation experiments conducted during development, such as backbone selection and loss function exploration.
